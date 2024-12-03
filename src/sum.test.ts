@@ -6,7 +6,7 @@ describe("Math", () => {
     });
 
 
-    it("Should be fail", () =>{
+    it("Should be able to sum 2 and 3", () =>{
     expect(sum(2, 2)).toBe(5);
   });
 });
